@@ -1,0 +1,3 @@
+rootProject.name = 'ReactAR'
+
+include ':app'
